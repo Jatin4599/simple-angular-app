@@ -27,3 +27,4 @@ EXPOSE 80
 
 # Start Nginx
 CMD ["nginx", "-g", "daemon off;"]
+#Adding new project into git hub repo
